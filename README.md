@@ -17,6 +17,7 @@
 - Alex trivia
 - A bit about me and how I think
 - Expectations about what you can depend on from me as your coworker
+- I accept pull requests :)
 
 # <a name="trivia"/>Trivia
 - 1 spouse (Sarah), 2 dogs (Hachi + Pixie), 1 cat (Elliott)
