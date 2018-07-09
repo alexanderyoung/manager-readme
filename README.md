@@ -3,7 +3,7 @@
 ##### Table of Contents  
 [What's in this document](#what)  
 [Trivia](#trivia)  
-[Why](#why)  
+[Why CloudAcademy?](#why)  
 [Communication](#communication)  
 [Feedback](#feedback)  
 [1:1s](#oneone)  
