@@ -1,21 +1,38 @@
 # Alex Young's Manager Readme
 
+##### Table of Contents  
+[What's in this document](#what)  
+[Trivia](#trivia)  
+[Why](#why)  
+[Communication](#communication)  
+[Feedback](#feedback)  
+[1:1s](#11)  
+[Empowerment](#empowerment)  
+[Work / Life](#worklife)  
+[When things go wrong](#wrong)  
+[F.L.A.M.E.](#flame)  
+
+
+<a name="what"/>
 # What's in this document?
 - Alex trivia
 - A bit about me and how I think
 - Expectations about what you can depend on from me as your coworker
 
+<a name="trivia"/>
 # Trivia
 - 1 spouse (Sarah), 2 dogs (Hachi + Pixie), 1 cat (Elliott)
 - Eats green things (vegan diet, not pushy)
 - Loves snowboarding in the winter and camping in the summer
 
+<a name="why"/>
 # Why CloudAcademy?
 - An amazing product...
 - Built by great people...
 - With a big vision
 - The opportunity to help you continue to achieve that vision and deliver great products that help our customers succeed
 
+<a name="communication"/>
 # Communication
 - Communication is the key differentiator of successful teams
 - Direct communication is best
@@ -26,6 +43,7 @@
 - Remind me if you don't get a prompt answer
 - I try to at least set expectations for a response as soon as I see a message
 
+<a name="feedback"/>
 # Feedback
 - Feedback is a vital to understanding expectations and improving outcomes
 - Feedback is bi-directional
@@ -33,24 +51,29 @@
 - Frequent is better than formal
 - It's safe to talk to me about anything - I abhor retaliation
 
+<a name="11"/>
 # 1:1s
 - Initially, I schedule 1:1s once a week - then adjust frequency as needed
 - Your time to talk - please feel free to bring up anything
 
+<a name="empowerment"/>
 # Empowerment
 - People who feel empowered deliver powerful results
 - If there's no clear policy on something, do what you think is right
 
+<a name="worklife"/>
 # Work / Life
 - I may email or IM you outside of work hours
 - Unless I clearly indicate it's an emergency, if I reach out to you via IM or email outside of work hours, feel free to ignore me until next day
 - If I call you outside of work hours, this means it's an emergency and a rare event - I'll treat this as a last resort
 
+<a name="wrong"/>
 # When things go wrong
 - Finding the root cause and improving processes is the only way to do better next time
 - I use [5 whys](https://en.wikipedia.org/wiki/5_Whys) to help determine root cause
 - Feel free to talk openly about what went wrong - I'm never looking to blame anyone, just improve the process
 
+<a name="flame"/>
 # F.L.A.M.E.
 A process I use to help triage and resolve problems of any size - feel free to use them yourself!
 ## Find Out
